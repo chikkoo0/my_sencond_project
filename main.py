@@ -21,6 +21,9 @@ elif day == "6":
 elif day == "7":
     print("Воскрисение")
 
+elif day == "8"
+    print("Сегиз")
+
 else:
     print("Ошибка!")
 
